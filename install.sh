@@ -18,6 +18,5 @@ cd $lua_dir
 curl -o $lua_dir/spry.lua -sL $spry_url
 sleep 2
 
-echo -ne "All done.\033[0K\r"
-echo "Getting Started"
+echo "All done. What's next?"
 echo "Read the docs at https://github.com/sprynvim/spry.nvim"
